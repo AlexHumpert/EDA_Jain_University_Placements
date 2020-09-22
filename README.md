@@ -28,7 +28,8 @@ After loading the data to my Jupyter Notebook, I needed to clean it up to explor
 * Deleted columns with missing values.
 
 ## Insights
-* The MBA degree demanded most is Marketing with the Finance specialization rather than with the HR specialization. 
 * The graduate employment rate is 68%. 
-* Comparing degree specializations throughout High School, Undergraduate and MBA specialization, we can see that the following degrees influence improve employment outcomes: 
-  * asdfd
+* The factors that influence employment outcomes the most are: 
+ * Previous work experience
+ * The Marketing with Finance MBA specialization is better than the Marketing with HR specialization. 
+ * The Commerce or Science Undergraduate degree is better than any of the "Other" degrees. 
